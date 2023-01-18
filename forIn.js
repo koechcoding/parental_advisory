@@ -1,3 +1,4 @@
+//using for in loop
 const person = {
     fname:"Kelvin",
     lname:"Koech",
